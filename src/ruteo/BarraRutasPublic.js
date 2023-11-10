@@ -47,10 +47,10 @@ const BarraRutasPublic = () => {
           
           <div id="menu">
             <ul>
-              <li><Link to="/">Portada(Dashboard)</Link> </li>
               <li><Link to="/home">Inicio(Home)</Link> </li>
               <li><Link to="/contacto">Informacion</Link> </li>
               <li><Link to="/acercade">Noticias</Link> </li>
+              <li><Link to="/contacto">Contacto</Link> </li>
             </ul>
           </div>
         </nav>

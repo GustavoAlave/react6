@@ -14,6 +14,7 @@ const AppForm = (props) => {
     //console.log(objeto);
   }
 
+
   ////////////////// GUARDAR-ACTUALIZAR /////////////////
   const camposRegistro = { nombre:"", edad:"", genero:""};
   const [objeto, setObjeto] = useState(camposRegistro);
